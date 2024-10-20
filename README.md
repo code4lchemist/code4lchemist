@@ -62,7 +62,7 @@ In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microco
 
 You can contact me using the forums for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
 
-:memo: **Note:** This profile is an exercise for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
+:memo: **Note:** As you may have guessed, this profile is an exercise for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
 
 ---
 
