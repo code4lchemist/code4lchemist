@@ -36,13 +36,11 @@ Throughout my career, I have had the opportunity to collaborate on various proje
 
 I love videogames and I am currently exploring game development using Godot, where I enjoy the creativity and challenges that come with building immersive experiences.
 
-[![Watch the video](./elit2.png)](./elit2.mp4)  
-*(click to watch the video)*
+<video controls poster="./elit2.png" src="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/elit2.mp4" title="./elit2.mp4"></video>
 
 Additionally, I have a passion for programming on the Arduino platform, allowing me to create innovative projects that blend technology with everyday life.
 
-[![Watch the video](./mm.png)](./mm.mp4)  
-*(click to watch the video)*
+<video controls poster="./mm.png" src="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/mm.mp4" title="./elit2.mp4"></video>
 
 In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microcomputers from the '80s, particularly the ZX Spectrum. I appreciate the artistry and gameplay that defined that era. I also enjoy playing the classical guitar, despite not being an expert. Music serves as a wonderful outlet for expression and relaxation, complementing my technical pursuits.
 
