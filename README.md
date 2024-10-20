@@ -8,28 +8,29 @@ In 2021, I transitioned into the public sector, joining the General Administrati
 
 ## Previous Experience
 
-- **Asamblea Regional de Murcia (2009 - 2017)**  
+- **Regional Assembly of Murcia (2009 - 2017)**  
 *Full-Stack Developer*
 - **DIGIO Soluciones Digitales, SL (2017 - 2019)**  
 *Full-Stack Developer*
 
 - **TICARUM SLU MP (2019 - 2021)**  
-*Analista programador*
+*Programmer Analyst*
 
-- **Subdelegación del Gobierno en Castellón (2021 - 2024)**  
-*Técnico Auxiliar de Informática*
+- **Subdelegation of the Government in Castellón (2021 - 2024)**  
+*IT Assistant*
 
-- **Jefatura Central de Tráfico (2024 - )**  
-*Operador de Apoyo Técnico*
+- **Central Traffic Headquarters (2024 - )**  
+*Technical Support Operator*
 
 ## Collaborated Projects
 
 Throughout my career, I have had the opportunity to collaborate on various projects. Below are a few selected projects I've been involved with:
 
-- [Asamblea Regional de Murcia website](https://www.asambleamurcia.es)
-- [Portal de Gestión de Eventos Symposium](https://symposium.events)
-- [Portal de CF Damm](https://www.cfdamm.cat/es)
-- [Portal de Revistas Científicas de la Universidad de Murcia](https://revistas.um.es)
+- [Regional Assembly of Murcia website](https://www.asambleamurcia.es)
+- [Symposium Event Management Portal](https://symposium.events)
+- [CF Damm Team Portal](https://www.cfdamm.cat/es)
+- [Victoria Beer Website](https://www.cervezavictoria.es/es)
+- [Scientific Journals Portal of the University of Murcia](https://revistas.um.es)
 
 ## Personal Interests
 
