@@ -46,8 +46,7 @@ Additionally, I have a passion for programming on the Arduino platform, allowing
 
 In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microcomputers from the '80s, particularly the ZX Spectrum. I appreciate the artistry and gameplay that defined that era. I also enjoy playing the classical guitar, despite not being an expert. Music serves as a wonderful outlet for expression and relaxation, complementing my technical pursuits.
 
-
-## Technologies I'm Interested In
+### Technologies I'm Interested In
 
 | Technology | Reason                                         |
 | :--------: | :--------------------------------------------- |
@@ -59,6 +58,12 @@ In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microco
 | Go         | Go is simple and efficient, and I love its concurrency handling. It's ideal for small microservices development. |
 | Godot      | Programming games with this IDE/framework is a lot of fun. |
 
+## Contact
+
+You can contact me using the forums for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
+
+:memo: **Note:** This profile is an exercise for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
+
 ---
 
 <center>
@@ -66,9 +71,3 @@ In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microco
 [⇈ Go up ⇈](#) 
 
 </center>
-
-
-<!---
-code4lchemist/code4lchemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
