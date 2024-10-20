@@ -34,9 +34,37 @@ Throughout my career, I have had the opportunity to collaborate on various proje
 
 ## Personal Interests
 
-I am currently exploring game development using Godot, where I enjoy the creativity and challenges that come with building immersive experiences. Additionally, I have a passion for programming on the Arduino platform, allowing me to create innovative projects that blend technology with everyday life.
+I love videogames and I am currently exploring game development using Godot, where I enjoy the creativity and challenges that come with building immersive experiences.
+
+[![Watch the video](./elit2.png)](./elit2.mp4) *(click for watch the video)*
+
+Additionally, I have a passion for programming on the Arduino platform, allowing me to create innovative projects that blend technology with everyday life.
+
+[![Watch the video](./mm.png)](./mm.mp4) *(click for watch the video)*
 
 In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microcomputers from the '80s, particularly the ZX Spectrum. I appreciate the artistry and gameplay that defined that era. I also enjoy playing the classical guitar, despite not being an expert. Music serves as a wonderful outlet for expression and relaxation, complementing my technical pursuits.
+
+
+## Technologies I'm Interested In
+
+| Technology | Reason                                         |
+| :--------: | :--------------------------------------------- |
+| PHP        | I like PHP, especially for backend development. |
+| Symfony    | I like Symfony as a PHP framework because of its vast ecosystem of small components. |
+| Node.js    | I like Node.js for backend development because of its vast ecosystem and seamless integration with the frontend. |
+| Vue        | Vue is perfect as a powerful and lightweight framework for frontend development. |
+| C++        | C++ is my go-to language for maximizing optimization in development, as is often required in applications for microcontrollers like Arduino or ESP32. |
+| Go         | Go is simple and efficient, and I love its concurrency handling. It's ideal for small microservices development. |
+| Godot      | Programming games with this IDE/framework is a lot of fun. |
+
+---
+
+<center>
+
+[⇈ Go up ⇈](#) 
+
+</center>
+
 
 <!---
 code4lchemist/code4lchemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
