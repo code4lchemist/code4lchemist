@@ -42,13 +42,14 @@ Throughout my career, I have had the opportunity to collaborate on various proje
 
 
 <p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/elit2.mp4"><img align="left" src="./elit2.png" width="40%"></a>
-I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.<br></p>
+I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.</p>
 
+<br style="clear: both;">
 
 <p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/mm.mp4"><img align="right" src="./mm.png" width="40%"></a>
-Additionally, I have a passion for programming on the <a href="https://www.arduino.cc/">Arduino platform</a>, allowing me to create innovative projects that blend technology with everyday life.<br></p>
+Additionally, I have a passion for programming on the <a href="https://www.arduino.cc/">Arduino platform</a>, allowing me to create innovative projects that blend technology with everyday life.</p>
 
-<br>
+<br style="clear: both;">
 
 In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microcomputers from the '80s, particularly the ZX Spectrum. I appreciate the artistry and gameplay that defined that era. I also enjoy playing the classical guitar, despite not being an expert. Music serves as a wonderful outlet for expression and relaxation, complementing my technical pursuits.
 
