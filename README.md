@@ -27,22 +27,29 @@ In 2021, I transitioned into the public sector, joining the General Administrati
 Throughout my career, I have had the opportunity to collaborate on various projects. Below are a few selected projects I've been involved with:
 
 - [Regional Assembly of Murcia website](https://www.asambleamurcia.es)
+    - Main technology used in the project: **Drupal 7 (PHP)**
 - [Symposium Event Management Portal](https://symposium.events)
+    - Main technology used in the project: **Codeigniter (PHP)**
 - [CF Damm Team Portal](https://www.cfdamm.cat/es)
+    - Main technology used in the project: **Drupal 8 (PHP)**
 - [Victoria Beer Website](https://www.cervezavictoria.es/es)
+    - Main technology used in the project: **Drupal 8 (PHP)**
 - [Scientific Journals Portal of the University of Murcia](https://revistas.um.es)
+    - Main technology used in the project: **OJS 3 (PHP)**
 
 ## Personal Interests
 
-I love videogames and I am currently exploring game development using Godot, where I enjoy the creativity and challenges that come with building immersive experiences.
 
-[![Download the video](./elit2.png)](https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/elit2.mp4)  
-**Godot "elit2" project example** - *Click to download the video*
 
-Additionally, I have a passion for programming on the Arduino platform, allowing me to create innovative projects that blend technology with everyday life.
+<p style="clear: both"><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/elit2.mp4"><img style="float: left;margin-right: 1em;" src="./elit2.png" width="40%"></a>
+I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.</p>
 
-[![Download the video](./mm.png)](https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/mm.mp4)  
-**ESP32 screen project example** - *Click to download the video*
+<p style="clear: both"></p>
+
+<p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/mm.mp4"><img style="float: right;margin-left: 1em;" src="./mm.png" width="40%"></a>
+Additionally, I have a passion for programming on the <a href="https://www.arduino.cc/">Arduino platform</a>, allowing me to create innovative projects that blend technology with everyday life.</p>
+
+<p style="clear: both"></p>
 
 In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microcomputers from the '80s, particularly the ZX Spectrum. I appreciate the artistry and gameplay that defined that era. I also enjoy playing the classical guitar, despite not being an expert. Music serves as a wonderful outlet for expression and relaxation, complementing my technical pursuits.
 
