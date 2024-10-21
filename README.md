@@ -1,12 +1,12 @@
 # ![code4lchemist - Code, ergo sum](./header.png)
 
-## About me
+## 👋 About me
 
 I have been a full-stack web developer since 2009, with a strong foundation in self-taught skills and incomplete formal studies in computer science. My passion for technology has driven me to constantly learn and refine my expertise in various web development technologies.
 
 In 2021, I transitioned into the public sector, joining the General Administration of the State as an IT Assistant. This shift paused my professional coding journey until recently, when I secured a position at the Central Traffic Headquarters, where I aim to continue developing and expanding my skill set.
 
-## Previous Experience
+## 📜 Previous Experience
 
 - **Regional Assembly of Murcia (2009 - 2017)**  
 *Full-Stack Developer*
@@ -22,7 +22,7 @@ In 2021, I transitioned into the public sector, joining the General Administrati
 - **Central Traffic Headquarters (2024 - )**  
 *Technical Support Operator*
 
-## Collaborated Projects
+## 🤝 Collaborated Projects
 
 Throughout my career, I have had the opportunity to collaborate on various projects. Below are a few selected projects I've been involved with:
 
@@ -37,9 +37,7 @@ Throughout my career, I have had the opportunity to collaborate on various proje
 - [Scientific Journals Portal of the University of Murcia](https://revistas.um.es)
     - Main technology used in the project: **OJS 3 (PHP)**
 
-## Personal Interests
-
-
+## 🎯 Personal Interests
 
 <p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/elit2.mp4"><img align="left" src="./elit2.png" width="40%"></a>
 I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.</p>
@@ -53,7 +51,7 @@ Additionally, I have a passion for programming on the <a href="https://www.ardui
 
 In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microcomputers from the '80s, particularly the ZX Spectrum. I appreciate the artistry and gameplay that defined that era. I also enjoy playing the classical guitar, despite not being an expert. Music serves as a wonderful outlet for expression and relaxation, complementing my technical pursuits.
 
-### Technologies I'm Interested In
+### 💻 Technologies I'm Interested In
 
 | Technology | Reason                                         |
 | :--------: | :--------------------------------------------- |
@@ -63,18 +61,18 @@ In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microco
 | Vue        | Vue is perfect as a powerful and lightweight framework for frontend development. |
 | C++        | C++ is my go-to language for maximizing optimization in development, as is often required in applications for microcontrollers like Arduino or ESP32. |
 | Go         | Go is simple and efficient, and I love its concurrency handling. It's ideal for small microservices development. |
+| Python     | I like Python for web development, web scraping, and also for its vast set of tools for working with AI. |
 | Godot      | Programming games with this IDE/framework is a lot of fun. |
+| Rust       | Rust is the only one on this list that I haven't had time to try yet, but I'm very interested in its strong emphasis on safe memory management. |
 
-## Contact
+## 📫 Contact 
 
 You can contact me using the forums for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
 
 :memo: **Note:** As you may have guessed, this profile is an exercise for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
 
+![Made with vscode](https://badgen.net/static/made%20with/vscode)
+
 ---
 
-<center>
-
 [⇈ Go up ⇈](#) 
-
-</center>
