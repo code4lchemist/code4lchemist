@@ -42,12 +42,11 @@ Throughout my career, I have had the opportunity to collaborate on various proje
 
 
 <p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/elit2.mp4"><img align="left" src="./elit2.png" width="40%"></a>
-I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.</p>
+I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.<br></p>
 
-<br>
 
 <p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/mm.mp4"><img align="right" src="./mm.png" width="40%"></a>
-Additionally, I have a passion for programming on the <a href="https://www.arduino.cc/">Arduino platform</a>, allowing me to create innovative projects that blend technology with everyday life.</p>
+Additionally, I have a passion for programming on the <a href="https://www.arduino.cc/">Arduino platform</a>, allowing me to create innovative projects that blend technology with everyday life.<br></p>
 
 <br>
 
