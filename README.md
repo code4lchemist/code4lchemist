@@ -40,12 +40,12 @@ Throughout my career, I have had the opportunity to collaborate on various proje
 ## 🎯 Personal Interests
 
 <p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/elit2.mp4"><img align="left" src="./elit2.png" width="40%"></a>
-I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.</p>
+I love videogames and I am currently exploring game development using <a href="https://godotengine.org/">Godot</a>, where I enjoy the creativity and challenges that come with building immersive experiences.<br><br><em>If you click on the image, you will download a small demo video of a pet project of mine made with Godot.</em></p>
 
 <br clear="both"><br>
 
 <p><a href="https://github.com/code4lchemist/code4lchemist/raw/refs/heads/main/mm.mp4"><img align="right" src="./mm.png" width="40%"></a>
-Additionally, I have a passion for programming on the <a href="https://www.arduino.cc/">Arduino platform</a>, allowing me to create innovative projects that blend technology with everyday life.</p>
+Additionally, I have a passion for programming on the <a href="https://www.arduino.cc/">Arduino platform</a>, allowing me to create innovative projects that blend technology with everyday life.<br><br><em>By clicking on the image, you will be able to download a video about a pet project for a computer tower screen, made in C++ for ESP32.</em></p>
 
 <br clear="both"><br>
 
@@ -68,6 +68,17 @@ In my spare time, I indulge in the nostalgia of retro consoles and 8-bit microco
 ## 📫 Contact 
 
 You can contact me using the forums for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
+
+Since I don't like leaving real public personal links unprotected, here’s a small list of some fake ones for the enjoyment of spam scrapers 😄 :
+
+- [![Email](https://img.shields.io/badge/Email-fake.email%40example.com-orange)](mailto:fake.email@example.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-code4lchemist-orange)](https://github.com/fake-username)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-fake--profile-orange)](https://www.linkedin.com/in/fake-profile)
+- [![X](https://img.shields.io/badge/X-fake_handle-orange)](https://x.com/fake_handle)
+- [![Facebook](https://img.shields.io/badge/Facebook-fake.profile%40facebook.com-blue)](https://www.facebook.com/fake.profile)
+- [![Instagram](https://img.shields.io/badge/Instagram-fake_profile%40instagram.com-purple)](https://www.instagram.com/fake_profile)
+- [![TikTok](https://img.shields.io/badge/TikTok-fake_handle%40tiktok.com-black)](https://www.tiktok.com/@fake_handle)
+- [![Pinterest](https://img.shields.io/badge/Pinterest-fake_profile%40pinterest.com-red)](https://www.pinterest.com/fake_profile)
 
 :memo: **Note:** As you may have guessed, this profile is an exercise for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
 
