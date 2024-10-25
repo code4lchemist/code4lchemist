@@ -80,9 +80,11 @@ Since I don't like leaving real public personal links unprotected, here’s a sm
 - [![TikTok](https://img.shields.io/badge/TikTok-fake_handle%40tiktok.com-black)](https://www.tiktok.com/@fake_handle)
 - [![Pinterest](https://img.shields.io/badge/Pinterest-fake_profile%40pinterest.com-red)](https://www.pinterest.com/fake_profile)
 
+---
+
 :memo: **Note:** As you may have guessed, this profile is an exercise for the subject Markup Languages and Information Management Systems in the Higher Degree Cycle of Web Application Development.
 
-![Made with vscode](https://badgen.net/static/made%20with/vscode)
+[![Made with vscode](https://badgen.net/static/made%20with/vscode)](https://code.visualstudio.com/download)
 
 ---
 
